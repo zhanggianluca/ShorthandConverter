@@ -7,38 +7,73 @@ In this lab we'll be looking at how to convert short hand and english explanatio
 
 #### Introduction to Shorthand
 
-#### Elements to Create
+#### Page One:
+To start off, were going to add some simple HTML tags to the index1.html file. These tags will not have classes or ids yet. Remember, the first part of shorthand is just the tag name! An image of what your final page will look like is below the shorthand!
 
-TODO: add introductory text around this, clarify shorthand specifics, add image of finished product
-Shorthands:
+**HTML Shorthand:**
 
-div#id.area
-  img.background-image
-  h1#title
-div#body.area
-  div#notstarted.todolist
-    h2.taskTitle
-    p.task
-    p.task
-    p.task
-  div#inprogress.todolist
-    h2.taskTitle
-    p.task
-    p.task
-    p.task
-  div#complete.todolist
-    h2.taskTitle
-    p.task
-    p.task
-    p.task
+h1 <br>
+p <br>
+p <br>
 
-questions: how to signify parents in shorthand?
+![](page1.png)
 
+#### Page Two:
+As you may have seen in the last one, without classes and ids it's harder to get the specific styles that we want to see. On this page, lets step up our html with elements that have ids and classes. Add the html elements described by the shorthand below to the index2.html file. If you place all of the correct elements in the index2.html file they will be correctly styled by style2.css. The picture below is the end product you're working towards! Fill in the text for any text elements as needed.
+
+**HTML Shorthand:**
+
+h1#title <br>
+div#red.box <br>
+div#blue.box <br>
+div#green.box <br>
+
+![](page2.png)
+
+#### Page Three:
+Now that you've written some HTML elements with specific classes and ids, let's get into some nested elements! Pay attention to the indentation of the HTML Shorthand written below when you're filling in index2.html. The picture below the shorthand is what your page should look like when you're finished! Fill in the src attributes for the image elements and text for text elements to match the page! You should see the necessary puppy images in this folder.
+
+**HTML Shorthand:**
+
+div#header <br>
+\*\*\* h1#title<br>
+div.pictures<br>
+\*\*\* img#puppy1.puppy<br>
+\*\*\* img#puppy2.puppy<br>
+\*\*\* img#puppy3.puppy<br>
+div.info<br>
+\*\*\* h2<br>
+\*\*\* p
+
+#### Page Four:
+Now that you've made it this far, let's stretch with some even more nesting and elements! Add all of the elements you see below to the index4.html page. When all of the elements have been added your page will look like the one below the html shorthand. Use the background.jpg file as the source for the img.background-image element.
+
+div#id.area <br>
+\*\*\* img.background-image <br>
+\*\*\*   h1#title <br>
+div#body.area <br>
+\*\*\*   div#notstarted.todolist <br>
+\*\*\*\*\*\*     h2.taskTitle <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\* div#inprogress.todolist <br>
+\*\*\*\*\*\*     h2.taskTitle <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\* div#complete.todolist <br>
+\*\*\*\*\*\*     h2.taskTitle <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\*\*\*\*     p.task <br>
+\*\*\*\*\*\*     p.task <br>
+
+![](page4.png)
 
 ## Extensions
 
 1. Pair up with a partner in your class.
-2. Take a few minutes to come up with some additional html elements and style them in your own code.
+2. Take a few minutes to come up with some additional html elements and style them in your own code for one of the files or start a new file completely.
 3. Write down the shorthand explanations of the html that you've added to your page.
 4. Send your partner the css rules to add and the shorthand explanation of the html that you want them to create. (If you want to make an added challenge, try to describe the selectors and rules that they need to complete in english also. For example: "select all h1 elements and color them green")
 5. Add the html elements and css rules that your partner described with shorthand and gave to you!
