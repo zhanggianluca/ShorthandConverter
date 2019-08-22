@@ -3,11 +3,11 @@
 ## The Goal
 In this lab we'll be looking at how to convert short hand and english explanations of html components into actual html code. This will be extremely useful as we move further in the course as it will allow us to easily and succinctly describe html elements in a consistent way.
 
-## The Lab
+# The Lab
 
 #### Introduction to Shorthand
 
-#### Page One:
+## Page One:
 To start off, were going to add some simple HTML tags to the index1.html file. These tags will not have classes or ids yet. Remember, the first part of shorthand is just the tag name! An image of what your final page will look like is below the shorthand!
 
 **HTML Shorthand:**
@@ -18,7 +18,7 @@ p <br>
 
 ![](page1.png)
 
-#### Page Two:
+## Page Two:
 As you may have seen in the last one, without classes and ids it's harder to get the specific styles that we want to see. On this page, lets step up our html with elements that have ids and classes. Add the html elements described by the shorthand below to the index2.html file. If you place all of the correct elements in the index2.html file they will be correctly styled by style2.css. The picture below is the end product you're working towards! Fill in the text for any text elements as needed.
 
 **HTML Shorthand:**
@@ -30,7 +30,7 @@ div#green.box <br>
 
 ![](page2.png)
 
-#### Page Three:
+## Page Three:
 Now that you've written some HTML elements with specific classes and ids, let's get into some nested elements! Pay attention to the indentation of the HTML Shorthand written below when you're filling in index2.html. The picture below the shorthand is what your page should look like when you're finished! Fill in the src attributes for the image elements and text for text elements to match the page! You should see the necessary puppy images in this folder.
 
 **HTML Shorthand:**
@@ -45,7 +45,7 @@ div.info<br>
 \*\*\* h2<br>
 \*\*\* p
 
-#### Page Four:
+## Page Four:
 Now that you've made it this far, let's stretch with some even more nesting and elements! Add all of the elements you see below to the index4.html page. When all of the elements have been added your page will look like the one below the html shorthand. Use the background.jpg file as the source for the img.background-image element.
 
 div#header.area <br>
