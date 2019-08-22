@@ -45,6 +45,8 @@ div.info<br>
 \*\*\* h2<br>
 \*\*\* p
 
+![](page3.png)
+
 ## Page Four:
 Now that you've made it this far, let's stretch with some even more nesting and elements! Add all of the elements you see below to the index4.html page. When all of the elements have been added your page will look like the one below the html shorthand. Use the background.jpg file as the source for the img.background-image element.
 
