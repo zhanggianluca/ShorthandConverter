@@ -31,7 +31,7 @@ div#green.box <br>
 ![](page2.png)
 
 ## Page Three:
-Now that you've written some HTML elements with specific classes and ids, let's get into some nested elements! Pay attention to the indentation of the HTML Shorthand written below when you're filling in index2.html. The picture below the shorthand is what your page should look like when you're finished! Fill in the src attributes for the image elements and text for text elements to match the page! You should see the necessary puppy images in this folder.
+Now that you've written some HTML elements with specific classes and ids, let's get into some nested elements! Pay attention to the indentation of the HTML Shorthand written below when you're filling in index3.html. The picture below the shorthand is what your page should look like when you're finished! Fill in the src attributes for the image elements and text for text elements to match the page! You should see the necessary puppy images in this folder.
 
 **HTML Shorthand:**
 
