@@ -74,10 +74,11 @@ div#body.area <br>
 
 ## Extensions
 
-1. Pair up with a partner in your class.
-2. Take a few minutes to come up with some additional html elements and style them in your own code for one of the files or start a new file completely.
+1. Complete this with your elbow partner in class.
+2. Take a few minutes to come up with three additional html elements and style them in your own code for one of the files or start a new file completely. Use HTML comments to clearly label this area in your page.
 3. Write down the shorthand explanations of the html that you've added to your page.
 4. Send your partner the css rules to add and the shorthand explanation of the html that you want them to create. (If you want to make an added challenge, try to describe the selectors and rules that they need to complete in english also. For example: "select all h1 elements and color them green")
-5. Add the html elements and css rules that your partner described with shorthand and gave to you!
+5. Add the html elements and css rules that your partner described with shorthand and gave to you! Use comments to clearly label this area in your page.
+6. Add a commented description of this extension on page four and indicate what HTML elements you created and the styles that you needed to use based on your partner's instructions. 
 
 This will let you test how well you can communicate about this kind of code with your peers and will help you stretch and make your page even more interesting!
