@@ -1,0 +1,42 @@
+body {
+    margin: 0px; 
+    padding: 0px; 
+    background-color: #C7DBE6; 
+}
+
+.area {
+    width: 100%; 
+    padding:0px;
+    margin: 0px;
+    display: grid;
+}
+
+#header {
+  grid-template-rows: 150px;
+  grid-template-columns: 1fr;
+  justify-content: stretch;
+  align-content: center;
+}
+
+#title {
+    color: #364652; 
+    font-family: 'Staatliches';
+    font-style: normal;
+    font-weight: 400;
+    position: absolute;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#subtitle {
+    color: #364652; 
+    font-family: 'Staatliches';
+    font-style: italic;
+    font-weight: 400;
+    position: absolute;
+    text-align: center;
+    padding-top: 10px; 
+}
+
+/*#071108 and #B5BEC6*/
