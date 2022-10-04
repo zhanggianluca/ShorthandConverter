@@ -72,7 +72,7 @@ div#body.area <br>
 
 ![](page4.png)
 
-## Extension - included it on page four
+## Extension - include this on page four
 
 1. Complete this with your elbow partner in class.
 2. Take a few minutes to come up with three additional html elements and style them in your own code for one of the files or start a new file completely. Use HTML comments to clearly label this area in your page.
